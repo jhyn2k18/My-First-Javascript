@@ -1,0 +1,83 @@
+body{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h6{
+    margin-left: 10px;
+}
+
+
+#mybox{
+width: 500px;
+height: 500px;
+border: 5px solid black;
+position: relative;
+margin: 20px auto;
+}
+
+#myimage{
+width: 490px;
+height: 490px;
+position: absolute;
+top: 0;
+left: 0;
+}
+
+
+.name{
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+.mybutton{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+
+}
+
+.mycenter{
+    text-align: center;
+}
+
+.mytext{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 6px;
+
+}
+
+.mycorrectanswer{
+    background-color: rgb(94, 243, 101);
+    padding-top: 9px;
+    margin-top: 20px;
+    height: 60px;
+    text-align: center;
+    height: 100px;
+    
+}
+
+.mywronganswer{
+    background-color: rgb(245, 101, 58);
+    padding-top: 9px;
+    margin-top: 20px;
+    height: 60px;
+    text-align: center;
+    height: 100px;
+    
+}
+
+#test{
+    border: 3px solid black;
+    width: 30px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+
+#test{
+    display: none;
+}
+
